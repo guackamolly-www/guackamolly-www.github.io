@@ -9,6 +9,8 @@ defaultContentLanguage = 'en'
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
+params.attribution = false
+
 [params.author]
   name = "Guackamolly Apps"
   headline = "We make apps that bring joy!"
