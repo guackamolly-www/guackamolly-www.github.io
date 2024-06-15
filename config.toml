@@ -17,11 +17,7 @@ params.attribution = false
   image = "78486244.png"
   links = [
     { email = "mailto:guackamolly.apps@gmail.com" },
-    { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
-    { link = { href = "styles/", text = "All the link styles", target = "_self" } },
-    { github = "https://github.com/jpanther/lynx" },
-    { x = "https://x.com/jpanther" },
-    { font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
+    { link = { href = "https://guackamollyapps.com/send-to-pocketbook", text = "Send to PocketBook", icon = "link" } },
   ]
 
 [markup.highlight]
