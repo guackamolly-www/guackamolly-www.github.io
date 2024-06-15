@@ -6,10 +6,13 @@ copyright = 'Copyright © 2024, Guackamolly Apps.'
 languageCode = 'en'
 defaultContentLanguage = 'en'
 
+
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
 
 params.attribution = false
+params.keywords = ['guackamolly apps', 'guackamolly', 'guackamollyapps', 'apps', 'app development', 'indie development']
 
 [params.author]
   name = "Guackamolly Apps"
