@@ -20,6 +20,7 @@ params.keywords = ['guackamolly apps', 'guackamolly', 'guackamollyapps', 'apps',
   links = [
     { email = "mailto:guackamolly.apps@gmail.com" },
     { link = { href = "https://guackamollyapps.com/send-to-pocketbook", text = "Send to PocketBook", icon = "link" } },
+    { link = { href = "https://guackamollyapps.com/guess-the-programming-language", text = "Guess The Programming Language", icon = "link" } },
   ]
 
 [markup.highlight]
